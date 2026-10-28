@@ -1,4 +1,4 @@
-# SAI DA JSON
+# SAÍDA JSON
 
 API desenvolvida em Python com FastAPI para receber mensagens de usuários, interpretar dados escolares com a Gemini AI e registrar notas em memória.
 
